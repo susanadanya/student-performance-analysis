@@ -55,20 +55,6 @@ The dataset was analysed using Excel functions, PivotTables, conditional formatt
 - Study Hours vs Exam Score
 - Student Distribution by School Type
 
-## Data Visualisations
-
-### Average Exam Score by Parental Involvement
-
-![Parental Involvement](screenshots/01-parental-involvement-charts.png)
-
-### Average Exam Score by Tutoring Sessions
-
-![Tutoring Sessions](02-tutoring-sessions-chart.png)
-
-### Attendance Percentage vs Exam Score
-
-![Attendance vs Exam Score](03-attendance-vs-exam-score.png)
-
 ## Future Improvements
 
 - Perform regression analysis
