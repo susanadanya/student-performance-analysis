@@ -59,7 +59,7 @@ The dataset was analysed using Excel functions, PivotTables, conditional formatt
 
 ### Average Exam Score by Parental Involvement
 
-![Parental Involvement](screenshots/01-parental-involvement-chart.png)
+![Parental Involvement](screenshots/01-parental-involvement-charts.png)
 
 ### Average Exam Score by Tutoring Sessions
 
